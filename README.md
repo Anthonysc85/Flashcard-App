@@ -11,9 +11,4 @@ Writing React function components
 Creating routes, including nested routes, using React Router
 Using hooks like useState(), useParams(), and useHistory()
 Debugging React code through console output and using the VS Code debugger
-Steps to complete
-To complete this project, you must do the following:
 
-Write code that passes all the tests in the Qualified assessment in this checkpoint.
-Write code that passes all of the requirements in the project rubric below, and submit your GitHub repo link to the grading team in the next checkpoint.
-Remember to sync this Qualified project with your local machine so that you can commit it to GitHub in the next checkpoint.
