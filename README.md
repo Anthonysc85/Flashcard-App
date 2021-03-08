@@ -3,7 +3,8 @@ Project description: Flashcard Application.
 
 This flash card application was built to help students study online. Teachers can use this application to create decks of flash cards for the subjects that they teach, and students can study the decks. 
 
-##Learning objectives
+## Learning objectives
+
 This project was designed to test my ability to work with rendering and state management using React. The following skills were used to complete my objective:
 
 Installing packages via NPM
@@ -13,7 +14,7 @@ Creating routes, including nested routes, using React Router
 Using hooks like useState(), useParams(), and useHistory()
 Debugging React code through console output and using the VS Code debugger
 
-## Project setup
+## Project Setup
 
 Follow the instructions below to get this project up and running on your own machine:
 
