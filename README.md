@@ -1,6 +1,7 @@
 # flashcard-app
-Project description: Flashcard-o-matic
-A local school has decided to put together a flash card application, Flashcard-o-matic, to help their students study online. Teachers will use this application to create decks of flash cards for the subjects that they teach, and students will study the decks. The school needs you to build the application that the students and teachers will use.
+Project description: Flashcard Application.
+
+This flash card application was built to help students study online. Teachers can use this application to create decks of flash cards for the subjects that they teach, and students can study the decks. 
 
 Learning objectives
 This project was designed to test my ability to work with rendering and state management using React. The following skills were used to complete my objective:
